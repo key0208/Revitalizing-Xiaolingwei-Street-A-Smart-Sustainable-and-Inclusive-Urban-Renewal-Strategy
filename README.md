@@ -7,4 +7,9 @@ This project presents a comprehensive urban renewal strategy for Xiaolingwei Str
 The project not only focuses on the transformation of physical Spaces but also incorporates multi-dimensional data analysis (GIS, POI, traffic flow, depthmap crowd aggregation simulation), demonstrating a strong feature of data support. The project also involves intelligent transportation (BRT, intelligent lighting control, and reservation systems), green space networks, and waste logistics optimization, which are important content directions of smart cities and low-carbon sustainable cities.
 ![示意图](https://github.com/key0208/Revitalizing-Xiaolingwei-Street-A-Smart-Sustainable-and-Inclusive-Urban-Renewal-Strategy/blob/main/Page1.jpg?raw=true)
 ![示意图](https://github.com/key0208/Revitalizing-Xiaolingwei-Street-A-Smart-Sustainable-and-Inclusive-Urban-Renewal-Strategy/blob/main/Page2.jpg?raw=true)
-![示意图]
+![示意图](https://github.com/key0208/Revitalizing-Xiaolingwei-Street-A-Smart-Sustainable-and-Inclusive-Urban-Renewal-Strategy/blob/main/Page3.jpg?raw=true)
+![示意图](https://github.com/key0208/Revitalizing-Xiaolingwei-Street-A-Smart-Sustainable-and-Inclusive-Urban-Renewal-Strategy/blob/main/Page4.jpg?raw=true)
+![示意图](https://github.com/key0208/Revitalizing-Xiaolingwei-Street-A-Smart-Sustainable-and-Inclusive-Urban-Renewal-Strategy/blob/main/Page5.jpg?raw=true)
+![示意图](https://github.com/key0208/Revitalizing-Xiaolingwei-Street-A-Smart-Sustainable-and-Inclusive-Urban-Renewal-Strategy/blob/main/Page6.jpg?raw=true)
+![示意图](https://github.com/key0208/Revitalizing-Xiaolingwei-Street-A-Smart-Sustainable-and-Inclusive-Urban-Renewal-Strategy/blob/main/Page7.jpg?raw=true)
+![示意图](https://github.com/key0208/Revitalizing-Xiaolingwei-Street-A-Smart-Sustainable-and-Inclusive-Urban-Renewal-Strategy/blob/main/Page8.jpg?raw=true)
