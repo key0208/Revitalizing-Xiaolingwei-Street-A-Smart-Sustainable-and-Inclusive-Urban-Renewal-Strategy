@@ -1,8 +1,4 @@
-# Revitalizing-Xiaolingwei-Street-A-Smart-Sustainable-and-Inclusive-Urban-Renewal-Strategy
-
-This is a Project about Urban Regeneration that I did when I was pursuing my first master's degree - Master of Landscape Architecture at Nanjing Agricultural University.
-
-Project Title: Revitalizing Xiaolingwei Street: A Smart, Sustainable, and Inclusive Urban Renewal Strategy
+# Revitalizing Xiaolingwei Street: A Smart, Sustainable, and Inclusive Urban Renewal Strategy
 
 This is a Project about Urban Regeneration that I did when I was pursuing my first master's degree - Master of Landscape Architecture at Nanjing Agricultural University.
 
